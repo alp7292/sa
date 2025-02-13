@@ -1,0 +1,27 @@
+{
+    "id":"alpkeeper", # For the convenience of troubleshooters, include your name and the mod name, not just an acronym.
+	"name":"alpskill", # Displayed to the player
+	"author":"alp",
+    "utility":"false",
+	"version":"1.5.1",
+	"description":"alpskills.",
+    "gameVersion": "0.97a-RC11",
+    "dependencies": [
+      {
+        "id": "lw_lazylib",
+        "name": "LazyLib"
+      },
+      {
+        "id": "MagicLib",
+        "name": "MagicLib"
+      },
+      {
+        "id": "lunalib",
+        "name": "LunaLib"
+      },
+      {
+        "id": "second_in_command",
+        "name": "Second in Command"
+      }
+    ]
+}

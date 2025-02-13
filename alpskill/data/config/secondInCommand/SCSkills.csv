@@ -1,0 +1,5 @@
+id,name,iconPath,npcSpawnWeight,plugin
+#Dustkeeper,,,,
+prophet_tt1,tt1,graphics/secondInCommand/dustkeeper/specialized.png,1.5,data.scripts.prophet_tt1
+prophet_tt2,tt2,graphics/secondInCommand/dustkeeper/socialization.png,1,data.scripts.prophet_tt2
+prophet_tt3,tt3,graphics/secondInCommand/dustkeeper/cyberwarfare.png,2.5,data.scripts.prophet_tt3
